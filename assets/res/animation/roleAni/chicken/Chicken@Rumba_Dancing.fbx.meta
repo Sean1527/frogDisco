@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "78753277-9e11-4417-bf1e-663791c1a554",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "75740": {
+      "importer": "gltf-scene",
+      "uuid": "78753277-9e11-4417-bf1e-663791c1a554@75740",
+      "displayName": "",
+      "id": "75740",
+      "name": "Chicken@Rumba_Dancing.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf9dc": {
+      "importer": "gltf-animation",
+      "uuid": "78753277-9e11-4417-bf1e-663791c1a554@bf9dc",
+      "displayName": "",
+      "id": "bf9dc",
+      "name": "Rumba_Dancing.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.3333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 2.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Rumba_Dancing",
+            "from": 0,
+            "to": 2.3333332538604736,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "78753277-9e11-4417-bf1e-663791c1a554@75740",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "78753277-9e11-4417-bf1e-663791c1a554@75740"
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c1bae19d-e9ef-42d5-b702-e37dfc91c377",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "7a5ac": {
+      "importer": "gltf-animation",
+      "uuid": "c1bae19d-e9ef-42d5-b702-e37dfc91c377@7a5ac",
+      "displayName": "",
+      "id": "7a5ac",
+      "name": "Thriller_Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5416666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "fd816": {
+      "importer": "gltf-scene",
+      "uuid": "c1bae19d-e9ef-42d5-b702-e37dfc91c377@fd816",
+      "displayName": "",
+      "id": "fd816",
+      "name": "frog@Thriller_Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 0.5416666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Thriller_Idle",
+            "from": 0,
+            "to": 0.5416666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c1bae19d-e9ef-42d5-b702-e37dfc91c377@fd816",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c1bae19d-e9ef-42d5-b702-e37dfc91c377@fd816"
+      ]
+    }
+  }
+}

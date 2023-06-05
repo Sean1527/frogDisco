@@ -1,0 +1,166 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a62e5673-97a9-4882-8256-84925e422f59",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "3817c": {
+      "importer": "gltf-mesh",
+      "uuid": "a62e5673-97a9-4882-8256-84925e422f59@3817c",
+      "displayName": "",
+      "id": "3817c",
+      "name": "Chicken.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18d6f": {
+      "importer": "gltf-animation",
+      "uuid": "a62e5673-97a9-4882-8256-84925e422f59@18d6f",
+      "displayName": "",
+      "id": "18d6f",
+      "name": "mixamo.com.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.9166667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "a62e5673-97a9-4882-8256-84925e422f59@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 37
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a15f": {
+      "importer": "texture",
+      "uuid": "a62e5673-97a9-4882-8256-84925e422f59@7a15f",
+      "displayName": "",
+      "id": "7a15f",
+      "name": "Texture.012.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/role/enemy/chickenMan/Tex_Chicken_Casual_B.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "710dd": {
+      "importer": "gltf-material",
+      "uuid": "a62e5673-97a9-4882-8256-84925e422f59@710dd",
+      "displayName": "",
+      "id": "710dd",
+      "name": "Material.013.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7c147": {
+      "importer": "gltf-scene",
+      "uuid": "a62e5673-97a9-4882-8256-84925e422f59@7c147",
+      "displayName": "",
+      "id": "7c147",
+      "name": "Chicken-ani.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Texture.012",
+        "remap": "db://assets/res/model/role/enemy/chickenMan/Tex_Chicken_Casual_B.png",
+        "uri": "db://assets/res/model/role/enemy/chickenMan/Tex_Chicken_Astronaut.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 3.9166667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "mixamo.com",
+            "from": 0,
+            "to": 3.9166667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a62e5673-97a9-4882-8256-84925e422f59@7c147",
+    "assetFinder": {
+      "meshes": [
+        "a62e5673-97a9-4882-8256-84925e422f59@3817c"
+      ],
+      "skeletons": [
+        "a62e5673-97a9-4882-8256-84925e422f59@438fe"
+      ],
+      "textures": [
+        "a62e5673-97a9-4882-8256-84925e422f59@7a15f"
+      ],
+      "materials": [
+        "a62e5673-97a9-4882-8256-84925e422f59@710dd"
+      ],
+      "scenes": [
+        "a62e5673-97a9-4882-8256-84925e422f59@7c147"
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d6e06a20-7d8c-4740-9826-c4a746a99573",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "b95b4": {
+      "importer": "gltf-animation",
+      "uuid": "d6e06a20-7d8c-4740-9826-c4a746a99573@b95b4",
+      "displayName": "",
+      "id": "b95b4",
+      "name": "Breakdance_Uprock.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.0416667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "350a5": {
+      "importer": "gltf-scene",
+      "uuid": "d6e06a20-7d8c-4740-9826-c4a746a99573@350a5",
+      "displayName": "",
+      "id": "350a5",
+      "name": "Chicken@Breakdance_Uprock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 2.0416667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Breakdance_Uprock",
+            "from": 0,
+            "to": 2.0416667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d6e06a20-7d8c-4740-9826-c4a746a99573@350a5",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d6e06a20-7d8c-4740-9826-c4a746a99573@350a5"
+      ]
+    }
+  }
+}

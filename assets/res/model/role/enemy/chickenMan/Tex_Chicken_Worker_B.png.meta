@@ -1,0 +1,41 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "460c6ec6-7afd-49ee-b7db-b2967cbbfc1c",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "460c6ec6-7afd-49ee-b7db-b2967cbbfc1c@6c48a",
+      "displayName": "Tex_Chicken_Worker_B",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "460c6ec6-7afd-49ee-b7db-b2967cbbfc1c"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "460c6ec6-7afd-49ee-b7db-b2967cbbfc1c@6c48a"
+  }
+}

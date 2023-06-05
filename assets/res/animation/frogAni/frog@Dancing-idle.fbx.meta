@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e217dce8-9ff5-4f04-b903-3787ffa9f2ec",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "a56ed": {
+      "importer": "gltf-animation",
+      "uuid": "e217dce8-9ff5-4f04-b903-3787ffa9f2ec@a56ed",
+      "displayName": "",
+      "id": "a56ed",
+      "name": "Dancing-idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.4166666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "98a3f": {
+      "importer": "gltf-scene",
+      "uuid": "e217dce8-9ff5-4f04-b903-3787ffa9f2ec@98a3f",
+      "displayName": "",
+      "id": "98a3f",
+      "name": "frog@Dancing-idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 1.4166666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dancing-idle",
+            "from": 0,
+            "to": 1.4166666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e217dce8-9ff5-4f04-b903-3787ffa9f2ec@98a3f",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e217dce8-9ff5-4f04-b903-3787ffa9f2ec@98a3f"
+      ]
+    }
+  }
+}

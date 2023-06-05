@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "db3a4796-f5af-4f80-a87b-b85fce94e56b",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "939ee": {
+      "importer": "gltf-animation",
+      "uuid": "db3a4796-f5af-4f80-a87b-b85fce94e56b@939ee",
+      "displayName": "",
+      "id": "939ee",
+      "name": "Thriller_Part_3_1.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.75
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "3e453": {
+      "importer": "gltf-scene",
+      "uuid": "db3a4796-f5af-4f80-a87b-b85fce94e56b@3e453",
+      "displayName": "",
+      "id": "3e453",
+      "name": "frog@Thriller_Part_3_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 1.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Thriller_Part_3_1",
+            "from": 0,
+            "to": 1.75,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "db3a4796-f5af-4f80-a87b-b85fce94e56b@3e453",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "db3a4796-f5af-4f80-a87b-b85fce94e56b@3e453"
+      ]
+    }
+  }
+}

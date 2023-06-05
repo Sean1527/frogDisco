@@ -1,0 +1,152 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bef294c5-7091-416e-821d-0624c39122d2",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "981ac": {
+      "importer": "gltf-mesh",
+      "uuid": "bef294c5-7091-416e-821d-0624c39122d2@981ac",
+      "displayName": "",
+      "id": "981ac",
+      "name": "球体_1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50f9f": {
+      "importer": "gltf-animation",
+      "uuid": "bef294c5-7091-416e-821d-0624c39122d2@50f9f",
+      "displayName": "",
+      "id": "50f9f",
+      "name": "Gangnam_Style.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.9166667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "bef294c5-7091-416e-821d-0624c39122d2@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 52
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "22e2a": {
+      "importer": "gltf-material",
+      "uuid": "bef294c5-7091-416e-821d-0624c39122d2@22e2a",
+      "displayName": "",
+      "id": "22e2a",
+      "name": "材质.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed9a5": {
+      "importer": "gltf-material",
+      "uuid": "bef294c5-7091-416e-821d-0624c39122d2@ed9a5",
+      "displayName": "",
+      "id": "ed9a5",
+      "name": "材质.2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1cf2b": {
+      "importer": "gltf-scene",
+      "uuid": "bef294c5-7091-416e-821d-0624c39122d2@1cf2b",
+      "displayName": "",
+      "id": "1cf2b",
+      "name": "frog@Gangnam_Style.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 3.9166667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Gangnam_Style",
+            "from": 0,
+            "to": 3.9166667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "bef294c5-7091-416e-821d-0624c39122d2@1cf2b",
+    "assetFinder": {
+      "meshes": [
+        "bef294c5-7091-416e-821d-0624c39122d2@981ac"
+      ],
+      "skeletons": [
+        "bef294c5-7091-416e-821d-0624c39122d2@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "bef294c5-7091-416e-821d-0624c39122d2@22e2a",
+        "bef294c5-7091-416e-821d-0624c39122d2@ed9a5"
+      ],
+      "scenes": [
+        "bef294c5-7091-416e-821d-0624c39122d2@1cf2b"
+      ]
+    }
+  }
+}
